@@ -1,0 +1,109 @@
+externalStatus,internalStatus,ext_encoded,int_encoded
+port out,port out,89,13
+terminal in,inbound terminal,91,7
+port in,port in,88,12
+vessel departure from first pol (vessel name : tian fu he),departure,104,1
+vessel arrival at final pod (vessel name : tian fu he),arrival,101,0
+departcu,departure,9,1
+gate in,gate in,31,4
+load on maersk sembawang / 237e,loaded on vessel,56,8
+discharge,departure,10,1
+gate out,gate out,34,5
+load on msc sveva / 248e,loaded on vessel,63,8
+load (vessel name : msc orion),loaded on vessel,43,8
+discharge (vessel name : msc orion),departure,15,1
+on rail,on rail,83,10
+off rail,off rail,82,9
+"gate out, empty",empty return,36,3
+load on msc orion / 227n,loaded on vessel,62,8
+toll plaza crossed,in-transit,93,6
+cfs out,outbound terminal,8,11
+cfs in,inbound terminal,7,7
+empty container release to shipper,empty container released,17,2
+gate in to outbound terminal,outbound terminal,33,11
+loaded on 'ym plum 175w' at port of loading ym plum 175w,loaded on vessel,77,8
+'ym plum 175w' departure from port of loading ym plum 175w,departure,5,1
+'ym plum 175w' arrival at port of discharging ym plum 175w,arrival,4,0
+unloaded from 'ym plum 175w' at port of discharging ym plum 175w,unloaded on vessel,97,14
+empty container returned from customer,empty return,18,3
+empty container door arrival,arrival,16,0
+gate in to outbound cy,outbound terminal,32,11
+outbound rail loading,outbound terminal,86,11
+outbound rail departure,outbound terminal,85,11
+outbound rail arrival,outbound terminal,84,11
+outbound rail unloading,outbound terminal,87,11
+gate out from outbound cy,outbound terminal,35,11
+loaded on 'tucapel 008e' at port of loading tucapel 008e,loaded on vessel,76,8
+'tucapel 008e' departure from port of loading tucapel 008e,departure,3,1
+'tucapel 008e' arrival at port of discharging tucapel 008e,arrival,2,0
+unloaded from 'tucapel 008e' at port of discharging tucapel 008e,unloaded on vessel,96,14
+load on cap san artemissio / 240s,loaded on vessel,45,8
+terminal out,outbound terminal,92,11
+load on edith maersk / 241e,loaded on vessel,49,8
+load on leonidio / 248w,loaded on vessel,51,8
+load on norfolk / 226e,loaded on vessel,65,8
+load on mumbai maersk / 226w,loaded on vessel,64,8
+load on maersk evora / 228n,loaded on vessel,52,8
+load on cma cgm don pascuale / 242n,loaded on vessel,48,8
+load on pl germany / 246n,loaded on vessel,68,8
+load on cap san sounio / 239w,loaded on vessel,46,8
+load on cielo di rabat / 243w,loaded on vessel,47,8
+load on gerner maersk / 226n,loaded on vessel,50,8
+load on maersk stepnica / 242s,loaded on vessel,57,8
+load on maersk horsburgh / 242e,loaded on vessel,54,8
+load on skagen maersk / 248s,loaded on vessel,71,8
+gate out,gate out,34,5
+load on msc livorno / 224n,loaded on vessel,61,8
+load on san clemente / 244e,loaded on vessel,69,8
+load on maersk guatemala / 247e,loaded on vessel,53,8
+load on nyk fushimi / 115n,loaded on vessel,67,8
+load on milan maersk / 242e,loaded on vessel,58,8
+load on sealand illinois / 226e,loaded on vessel,70,8
+load on volga maersk / 241n,loaded on vessel,72,8
+load on maersk montana / 246w,loaded on vessel,55,8
+load on bg ireland / 247w,loaded on vessel,44,8
+load on northern jasper / 027e,loaded on vessel,66,8
+loaded usjax,loaded on vessel,81,8
+unloaded prsju,unloaded on vessel,98,14
+actual time of departure,departure,6,1
+expected time of departure,departure,24,1
+load (vessel name : cosco indonesia),loaded on vessel,39,8
+discharge (vessel name : cosco indonesia),departure,11,1
+empty to shipper,empty container released,19,2
+vessel departure,departure,102,1
+vessel arrival,arrival,99,0
+loaded on board,loaded on vessel,78,8
+full load on rail for export,loaded on vessel,29,8
+train arrival for export,arrival,94,0
+import unloaded from rail,unloaded on vessel,38,14
+import loaded on rail,loaded on vessel,37,8
+full transshipment loaded,loaded on vessel,30,8
+export loaded on vessel,loaded on vessel,26,8
+empty to shipper,empty container released,19,2
+export unloaded from rail,unloaded on vessel,28,14
+export rail departure,departure,27,1
+export loaded on rail,loaded on vessel,25,8
+loaded at t/s pol,loaded on vessel,74,8
+loaded at first pol,loaded on vessel,73,8
+load (vessel name : maersk bulan),loaded on vessel,41,8
+discharge (vessel name : maersk bulan),departure,13,1
+load (vessel name : maersk nijmegen),loaded on vessel,42,8
+discharge (vessel name : maersk nijmegen),departure,14,1
+load (vessel name : elbwater),loaded on vessel,40,8
+discharge (vessel name : elbwater),departure,12,1
+loaded on board (vessel name : vayenga maersk),loaded on vessel,79,8
+vessel departure (vessel name : vayenga maersk),departure,103,1
+vessel arrival (vessel name : vayenga maersk),arrival,100,0
+loaded on board,loaded on vessel,78,8
+expected arrival update,arrival,23,0
+loaded on train,loaded on vessel,80,8
+rail arrival in-transit,arrival,90,0
+expected arrival at dest. ramp,arrival,21,0
+expected arrival place of delivery,arrival,22,0
+loaded on 'marina one 001s' at port of loading marina one 001s,loaded on vessel,75,8
+'marina one 001s' departure from port of loading marina one 001s,departure,1,1
+'marina one 001s' arrival at port of discharging marina one 001s,arrival,0,0
+unloaded from 'marina one 001s' at port of discharging marina one 001s,unloaded on vessel,95,14
+load on mogens maersk / 246w,loaded on vessel,59,8
+load on msc alexandra / 248w,loaded on vessel,60,8
+estimated time of arrival,arrival,20,0
